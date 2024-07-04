@@ -1,6 +1,6 @@
 {
   "name": "headortail",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Head Or Tail random functions",
   "main": "index.js",
   "scripts": {
