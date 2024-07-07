@@ -1,11 +1,16 @@
 {
   "name": "headortail",
-  "version": "1.0.1",
-  "description": "Head Or Tail random functions",
+  "version": "1.0.2",
+  "description": "Head Or Tail random function",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrtampan/headortail"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/mrtampan/headortail#readme"
 }
